@@ -12,7 +12,7 @@ html {
 }
 :root {
   --clr-primary: #253993;
-  --clr-secodery: #fd0;
+  --clr-secodery: rgba(0, 55, 255, 0.63);
   --clr-footer: #1e2339;
   --clr-grayesh: #e7e8ed;
   --section-padding: 50px 0;
